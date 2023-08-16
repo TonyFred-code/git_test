@@ -1,1 +1,3 @@
 Relearning what git can be used for using TOP.
+
+Trying to see if commit message will work as VScode being default code editor.
